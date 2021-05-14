@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Sejam Bem Vindos! Jean Santos</h1>
+<h1 align="center">Olá 👋, Sejam Bem Vindos!</h1>
 
 <h3 align="center">Apaixonado por Tecnologia e Educação! Amo ensinar e ajudar na transformação de pessoas através da educação. Adoro desafios "Platinar um Jogo, Pescar, Jiu-Jitsu" ou seja trazer soluções de forma segura e inteligente para os meus desafios.</h3>
 
