@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Sejam Bem Vindos!</h1>
 
-<h3 align="center">Apaixonado por Tecnologia e Educação! Amo ensinar e ajudar na transformação de pessoas através da educação. Adoro desafios "Platinar um Jogo, Pescar, Jiu-Jitsu" ou seja, trazer soluções de forma segura e inteligente para os meus desafios.</h3>
+<h3 align="center">Apaixonado por Tecnologia e Educação! Amo ensinar e ajudar na transformação de pessoas através da educação. Adoro desafios "Platinar um Jogo, Pescar" ou seja, trazer soluções de forma segura e inteligente para os meus desafios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-JeanSantos&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-JeanSantos" /> </p>
 
